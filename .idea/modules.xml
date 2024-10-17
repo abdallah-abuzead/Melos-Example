@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/apps/first_app/melos_first_app.iml" filepath="$PROJECT_DIR$/apps/first_app/melos_first_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/utilities_package/melos_utilities_package.iml" filepath="$PROJECT_DIR$/packages/utilities_package/melos_utilities_package.iml" />
       <module fileurl="file://$PROJECT_DIR$/melos_melos_example.iml" filepath="$PROJECT_DIR$/melos_melos_example.iml" />
     </modules>
   </component>
