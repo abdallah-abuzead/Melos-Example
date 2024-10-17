@@ -1,0 +1,16 @@
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+
+# Melos
+pubspec_overrides.yaml
+
+# FVM Version Cache
+.fvm/
